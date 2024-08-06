@@ -75,7 +75,7 @@ mpc.version = '2';
 
 %%-----  Power Flow Data  -----%%
 %% system MVA base
-mpc.baseMVA = 100;
+mpc.baseMVA = 1000;
 
 
 mpc.areas = [
